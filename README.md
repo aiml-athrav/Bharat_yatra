@@ -70,13 +70,13 @@ bharat-yatra/
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="images/character-selection.png" alt="Character Selection Screen" width="800"/>
-  <br>
-  <em>Character Selection Screen</em>
-  <br><br>
   <img src="images/gameplay.png" alt="Gameplay Screen" width="800"/>
   <br>
   <em>Gameplay Screen (Bhagat Singh in Punjab)</em>
+  <br><br>
+  <img src="images/character-selection.png" alt="Character Selection Screen" width="800"/>
+  <br>
+  <em>Character Selection Screen</em>
 </div>
 
 ## 🎯 Features Roadmap
