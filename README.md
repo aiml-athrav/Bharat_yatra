@@ -1,6 +1,6 @@
-# Bharat Yatra 🇮🇳
+# Heritage Hub 🇮🇳
 
-**Bharat Yatra** is an immersive, interactive web application designed to take players on a journey through India's rich history. Built by team **Alpha Minds** for the **Smart India Hackathon 2026**.
+**Heritage Hub** is an immersive, interactive web application designed to take players on a journey through India's rich history. Built by team **Alpha Minds** for the **Smart India Hackathon 2026**.
 
 ## 🚀 Tech Stack
 
